@@ -1,0 +1,47 @@
+- title: General Internal Medicine (GIM)
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur mauris magna, nec faucibus odio fermentum in. In commodo odio mi, vel semper urna pulvinar at.
+  price: €95
+  image: bg--gim.jpg
+  url: /general-internal-medicine/
+
+- title: Core Surgical Training (CST)
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur mauris magna, nec faucibus odio fermentum in. In commodo odio mi, vel semper urna pulvinar at.
+  price: €95
+  image: bg--cst.jpg
+  url: /core-surgical-training/
+
+- title: General Practice (GP)
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur mauris magna, nec faucibus odio fermentum in. In commodo odio mi, vel semper urna pulvinar at.
+  price: €95
+  image: bg--gp.jpg
+  url: /general-practice/
+
+- title: Anaesthesiology SST
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur mauris magna, nec faucibus odio fermentum in. In commodo odio mi, vel semper urna pulvinar at.
+  price: €95
+  image: bg--anaesthesiology.jpg
+  url: /anaesthesiology-sst/
+
+- title: Obstetrics & Gynaecology BST
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur mauris magna, nec faucibus odio fermentum in. In commodo odio mi, vel semper urna pulvinar at.
+  price: €95
+  image: bg--obsgynae.jpg
+  url: /obs-and-gynae-bst/
+
+- title: Paediatrics BST
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur mauris magna, nec faucibus odio fermentum in. In commodo odio mi, vel semper urna pulvinar at.
+  price: €95
+  image: bg--paeds.jpg
+  url: /paediatrics-bst/
+
+- title: Psychiatry BST
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur mauris magna, nec faucibus odio fermentum in. In commodo odio mi, vel semper urna pulvinar at.
+  price: €95
+  image: bg--psych.jpg
+  url: /psychiatry-bst/
+
+- title: Radiology
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur mauris magna, nec faucibus odio fermentum in. In commodo odio mi, vel semper urna pulvinar at.
+  price: €95
+  image: bg--radiology.jpg
+  url: /radiology/

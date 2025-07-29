@@ -1,0 +1,33 @@
+h2 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: -0.72px;
+    margin-bottom: 16px;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 450;
+    line-height: 24px;
+}
+
+.sectionHeader {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    font-weight: 700;
+    font-variation-settings: 'wdth' 90;
+    letter-spacing: 0.96px;
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+
+    &::before {
+        content: ' ';
+        width: 6px;
+        height: 6px;
+        background: $blue-700;
+    }
+}

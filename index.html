@@ -1,0 +1,56 @@
+---
+layout: default
+title: Medibuddy Ireland
+---
+
+<div class="hero">
+    <div class="grid">
+        <div class="column-6">
+            <h1 class="hero__title">
+                <span class="hero__underlined"><span>Rank highly</span></span>.<br>
+                Get your first choice training job.
+            </h1>
+        </div>
+        <div class="hero__content column-6">
+            <p>We understand the importance of preparing well for your interview, and that's why we’ve created a comprehensive range of resources to help you take your preparation to the next level.</p>
+        </div>
+    </div>
+</div>
+
+{% include banner.html %}
+
+<section class="interviews">
+    <div class="grid">
+        <div class="column-4">
+            <div class="sticky">
+                <div class="sectionHeader">Interview resources</div>
+                <h2>Professionally written specialty interview question banks</h2>
+                <p>Jobs are getting more competitive every year, so let us give you that extra edge to get the job.</p>
+
+                <div class="testimonial">
+                    <div class="testimonial__quote">“Medibuddy really helped! It was all I used to prepare and I scored 100% in the interview, so would definitely recommend it to anyone!”</div>
+                    <div class="testimonial__cite">Dr. Luke Marsh</div>
+                </div>
+            </div>
+        </div>
+        <div class="column-8 grid">
+            {% for product in site.data.products %}
+                <div class="column-6">
+                    <a href="{{ product.url }}" class="card">
+                        <img class="card__bg" src="/assets/img/{{ product.image }}" alt="">
+                        <div class="card__gradient"></div>
+                        <div class="card__content">
+                            <h3 class="card__title">{{ product.title }}</h3>
+                            <p class="card__blurb">{{ product.description }}</p>
+                        </div>
+                        <div class="card__details">
+                            <span class="card__price">{{ product.price }}</span>
+                            <span class="button-link">Find out more</span>
+                        </div>
+                    </a>
+                </div>
+            {% endfor %}   
+        </div>
+    </div>
+</section>
+

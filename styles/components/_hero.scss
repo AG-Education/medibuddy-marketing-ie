@@ -1,0 +1,48 @@
+.hero {
+    background: $blue-50;
+    border-radius: 32px;
+    margin: 0 12px;
+    padding: 100px 0 140px;
+}
+
+.hero__title {
+    font-weight: 700;
+    margin-bottom: 12px;
+    font-size: 64px;
+    line-height: 68px;
+    letter-spacing: -1.28px;
+}
+
+.hero__underlined {
+    position: relative;
+    text-shadow: 0px 4px 0px #eff6ff, 4px 0px 0px #eff6ff, -4px 0px 0px #eff6ff;
+
+    span {
+        position: relative;
+    }
+
+    &::before {
+        content: ' ';
+        height: 10px;
+        width: calc(100% + 12px);
+        background: url("../assets/img/underline.svg");
+        position: absolute;
+        bottom: 2px;
+        left: -4px;
+        background-size: 100%;
+        z-index: 0;
+        background-repeat: no-repeat;
+    }
+}
+
+.hero__content {
+    display: flex;
+    align-items: flex-end;
+
+    p {
+        font-size: 20px;
+        font-weight: 450;
+        line-height: 32px;
+        padding-bottom: 16px;
+    }
+}

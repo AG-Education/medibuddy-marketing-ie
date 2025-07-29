@@ -1,0 +1,13 @@
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    
+    font-family: "Instrument Sans", sans-serif;
+    font-variation-settings: 'wdth' 100;
+    font-weight: 450;
+    color: $slate-900;
+}
+
+section {
+    padding: 100px 0;
+}
