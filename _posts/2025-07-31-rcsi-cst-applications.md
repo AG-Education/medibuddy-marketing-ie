@@ -8,7 +8,7 @@ category_long_name: Core Surgical Training
 date: 2025-07-31
 date_formatted: 31st July 2025
 image: rcsi-cst-applications.jpg
-author: samgaine
+author: medibuddy
 permalink: /core-surgical-training/rcsi-cst-applications/
 og: /assets/img/rcsi-cst-applications.jpg
 ---
