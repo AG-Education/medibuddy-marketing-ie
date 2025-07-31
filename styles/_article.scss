@@ -80,3 +80,23 @@
     line-height: 32px;
     margin-bottom: 8px;
 }
+
+.article__content table {
+    font-size: 13px;
+    line-height: 16px;
+    margin-bottom: 28px;
+
+    th, td {
+        padding: 8px 8px;
+        background-color: $blue-50;
+    }
+
+    th {
+        background: $blue-700;
+        color: white;
+
+        &:nth-of-type(2) {
+            width: 340px;
+        }
+    }
+}

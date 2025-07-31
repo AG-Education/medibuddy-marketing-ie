@@ -1,47 +1,47 @@
 - title: General Internal Medicine (GIM)
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur mauris magna, nec faucibus odio fermentum in. In commodo odio mi, vel semper urna pulvinar at.
+  description: General Internal Medicine exposes you to a wide range of subspecialties, allowing you to pursue further training across 23 different specialties. This makes it an ideal choice if you want to keep your career options flexible. Our question bank can help get you there.
   price: €95
   image: bg--gim.jpg
   url: /general-internal-medicine/
 
 - title: Core Surgical Training (CST)
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur mauris magna, nec faucibus odio fermentum in. In commodo odio mi, vel semper urna pulvinar at.
+  description: Core Surgical Training is a competitive programme for doctors pursuing a surgical career. Entry is determined through a national selection process involving portfolio assessment and structured interviews. Our question bank can give you an advantage.
   price: €95
   image: bg--cst.jpg
   url: /core-surgical-training/
 
 - title: General Practice (GP)
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur mauris magna, nec faucibus odio fermentum in. In commodo odio mi, vel semper urna pulvinar at.
+  description: General Practice training in Ireland is competitive due to high demand. The interview stage offers a structured opportunity for applicants to demonstrate the core competency domains of general practice, as well as their understanding of the GP role. Be prepared with our tailored question bank.
   price: €95
   image: bg--gp.jpg
   url: /general-practice/
 
 - title: Anaesthesiology SST
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur mauris magna, nec faucibus odio fermentum in. In commodo odio mi, vel semper urna pulvinar at.
+  description: Anaesthesiology is one of the few specialties offered via the SST pathway in Ireland. The interview is a key step in securing your place and starting your journey in this fascinating specialty. Get a head start here.
   price: €95
   image: bg--anaesthesiology.jpg
   url: /anaesthesiology-sst/
 
 - title: Obstetrics & Gynaecology BST
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur mauris magna, nec faucibus odio fermentum in. In commodo odio mi, vel semper urna pulvinar at.
+  description: Applying for Obstetrics and Gynaecology BST offers a valuable opportunity to gain broad exposure to this impactful specialty. Excelling in the interview is essential, practice your skills thoroughly using our Q-bank.
   price: €95
   image: bg--obsgynae.jpg
   url: /obs-and-gynae-bst/
 
 - title: Paediatrics BST
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur mauris magna, nec faucibus odio fermentum in. In commodo odio mi, vel semper urna pulvinar at.
+  description: BST in Paediatrics encompasses a broad spectrum of medical conditions to get familiar with. An understanding of the Paediatric landscape in Ireland is also crucial to interview success. Ensure you are prepared here.
   price: €95
   image: bg--paeds.jpg
   url: /paediatrics-bst/
 
 - title: Psychiatry BST
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur mauris magna, nec faucibus odio fermentum in. In commodo odio mi, vel semper urna pulvinar at.
+  description: Applying for BST in Psychiatry marks the start of training in one of the most rewarding and distinctive medical specialties. At interview, psychiatry applicants are assessed across three key domains as part of the scoring process. Our Q-bank supports you in preparing confident responses.
   price: €95
   image: bg--psych.jpg
   url: /psychiatry-bst/
 
 - title: Radiology
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur mauris magna, nec faucibus odio fermentum in. In commodo odio mi, vel semper urna pulvinar at.
+  description: Radiology is a specialty that offers a unique blend of clinical and technical expertise. The interview can be tough as it assesses candidates’ career trajectory, experience, and suitability for radiology. Prepare here to make your best impression.
   price: €95
   image: bg--radiology.jpg
   url: /radiology/
