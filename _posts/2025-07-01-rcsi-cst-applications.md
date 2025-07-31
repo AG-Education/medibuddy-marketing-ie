@@ -29,7 +29,34 @@ The standard set by RCSI for shortlisting occurs following an analysis of the Oc
 
 Over recent years, the interview process has become more transparent with the introduction of a standardised format and scoring system based on the selection criteria for CST. One aiming to achieve a high score in the CST should pay close attention to the scoring system. A scoring matrix is available on the RCSI website (see table below). Doing well after interview is influenced to a large extent by targeting a high score in each specific competency domain. At interview, you should seek to sell your application across these scored areas; opening presentation, clinical judgement, interpersonal skills, professional development, and suitability for specialty training.
 
-[image here]
+![RCSI Scoring Matrix](/assets/img/blogs/cst-table.jpg)
+*Source: RCSI Guide to Core Surgical Training Intake 2025*
+
+### Centile scoring
+
+<div class="float--right" markdown="1">
+
+| Range | Centile | Bucket |
+| :---- | :-----: | :----: |
+| 20    | 80-100  | 5      |
+| 19    | 60-79   | 4      |
+| 19    | 40-59   | 3      |
+| 19    | 20-39   | 2      |
+| 19    | 0-19    | 1      |
+
+</div>
+
+As part of your Core Surgical Training application, you must provide evidence of your centile or decile ranking as issued by your university.
+
+A maximum of 5 marks is available for centile scores, with points awarded according to the ranking provided.
+
+**Important Notes:**
+
+- If you do not submit a centile or decile ranking, you will receive the minimum score of 1 mark.
+- If your university does not issue centile or decile rankings, you must submit:
+    - Your academic transcripts, and
+    - An official letter from your university confirming that rankings are not provided.
+- If both the transcripts and official confirmation letter are submitted, you will be awarded 2 marks.
 
 ## ‘Off the Table’
 
