@@ -28,33 +28,7 @@ The standard set by RCSI for shortlisting occurs following an analysis of the Oc
 
 Over recent years, the interview process has become more transparent with the introduction of a standardised format and scoring system based on the selection criteria for CST. One aiming to achieve a high score in the CST should pay close attention to the scoring system. A scoring matrix is available on the RCSI website (see table below). Doing well after interview is influenced to a large extent by targeting a high score in each specific competency domain. At interview, you should seek to sell your application across these scored areas; opening presentation, clinical judgement, interpersonal skills, professional development, and suitability for specialty training.
 
-| Category                                                                           | Submission / topic                                                                                                                                                                                                                                                                                                             | Scoring % available in this category  | Scored                            |
-| :--------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------: | :-------------------------------- |
-| Undergraduate Academic Record                                                      | Centile score from medical school. <br>Mandatory submission as part of your application                                                                                                                                                                                                                                        | 5                                     | **Scored at application point**   |
-| Surgical Aptitute Tests - _Undertaken online, following submission of application_ | **_Online surgical aptitudes measure:_** <br>Psychomotor skills;<br>Visuospatial ability;<br>Perception                                                                                                                                                                                                                        | 10                                    | **Scored at application point ±** |
-| Clinical Judgment                                                                  | **_Review and discussion of:_** <br>Structured Clinical Scenarios                                                                                                                                                                                                                                                              | 10                                    | **Scored at interview**           |
-| Interpersonal Skills                                                               | **_Topics may include:_** <br>Communication; <br>Teamwork/Leadership; <br>Crisis Management; <br>Negotiation/Conflict Management                                                                                                                                                                                               | 15                                    | **Scored at interview**           |
-| Professional Development                                                           | **_Topics may include:_** <br>Clinical Research projects; <br>Attendance at meetings/courses; <br>Audit projects; <br>Teaching activities                                                                                                                                                                                      | 20                                    | **Scored at interview**           |
-| Suitability for Specialty Training                                                 | **_Topics may include:_** <br>Motivation/drive; <br>Knowledge of Specialty; <br>Time/stress management; <br>Work ethic/professionalism                                                                                                                                                                                         | 30                                    | **Scored at interview**           |
-| Personal Presentation                                                              | **_Topics may include:_** <br>Medical School and Intern history; <br>Highlights of your undergraduate academic record; <br>Achievements in your career since graduation; <br>Surgical experience; <br>Attributes which may make you a good surgeon; <br>Extracurricular achievements/interests; <br>Other relevant information | 10                                    | **Scored at interview**           |
-
-<p style="font-size: 12px; line-height: 16px;">± Note: Following the closing date for submission of applications all candidates will be contacted with details on how to complete this component.</p>
-
-### Centile Scoring
-
-As part of your application to Core Surgical Training, you will be asked to submit evidence of your centile/decile score as provided by your university.
-
-Centile Scores have a maximum of 5 marks available. Marks will be awarded as outlined here:
-
-| Range | Centile | Bucket |
-| :---- | :-----: | :----: |
-| 20    | 80-100  | 5      |
-| 19    | 60-79   | 4      |
-| 19    | 40-59   | 3      |
-| 19    | 20-39   | 2      |
-| 19    | 0-19    | 1      |
-
-**Points to note:** If you do not supply a centile/ decile ranking, you will be awarded the lowest score of 1 mark.  If your university does not provide centile/decile ranking, along with your transcripts you must submit an official letter from your university confirming this. If you submit a letter from your university confirming it does not provide centile/decile rankings along with your transcripts, 2 marks will be awarded.
+[image here]
 
 ## ‘Off the Table’
 
