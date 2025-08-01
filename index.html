@@ -7,7 +7,7 @@ og: /assets/img/og.jpg
 
 <div class="hero" style="padding-bottom: 60px;">
     <div class="grid">
-        <div class="column-6">
+        <div class="column-6 hero__left">
             <h1 class="hero__title">
                 <span class="hero__underlined"><span>Rank highly</span></span>.<br>
                 Get your first choice training job.
@@ -21,7 +21,7 @@ og: /assets/img/og.jpg
 
 <section class="interviews">
     <div class="grid">
-        <div class="column-4">
+        <div class="column-4 interviews__text">
             <div class="sticky">
                 <div class="sectionHeader">Interview resources</div>
                 <h2>Professionally written specialty interview question banks</h2>
@@ -33,9 +33,9 @@ og: /assets/img/og.jpg
                 </div>
             </div>
         </div>
-        <div class="column-8 grid">
+        <div class="column-8 grid interviews__products">
             {% for product in site.data.products %}
-                <div class="column-6">
+                <div class="column-6 interviews__card">
                     <a href="{{ product.url }}" class="card">
                         <img class="card__bg" src="/assets/img/{{ product.image }}" alt="">
                         <div class="card__gradient"></div>

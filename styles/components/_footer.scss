@@ -56,3 +56,18 @@
     justify-content: space-between;
     padding-bottom: 32px;
 }
+
+@media screen and (max-width: 780px) {
+    .footer__links {
+        grid-auto-flow: row;
+    }
+
+    .footer__links li {
+        grid-column: span 4;
+    }
+
+    .footer__main, .footer__bottom {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}

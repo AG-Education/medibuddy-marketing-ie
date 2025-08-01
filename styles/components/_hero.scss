@@ -46,3 +46,9 @@
         padding-bottom: 16px;
     }
 }
+
+@media screen and (max-width: 780px) {
+    .hero__left, .hero__content {
+        grid-column: span 12;
+    }
+}
