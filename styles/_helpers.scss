@@ -2,3 +2,21 @@
     position: sticky;
     top: 40px;
 }
+
+.mobile-hide {
+    display: inline;
+}
+
+.mobile-show {
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    .mobile-hide {
+        display: none;
+    }
+
+    .mobile-show {
+        display: inline;
+    }
+}

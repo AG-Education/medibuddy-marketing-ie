@@ -71,3 +71,23 @@
         padding-right: 16px;
     }
 }
+
+@media screen and (max-width: 600px) {
+    .footer__bottom {
+        flex-wrap: wrap;
+
+        .footer__legals, span {
+            width: 100%;
+        }
+    }
+
+    .footer__socials {
+        flex-wrap: wrap;
+        gap: 4px;
+
+        span {
+            width: 100%;
+            text-align: right;
+        }
+    }
+}

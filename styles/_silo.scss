@@ -62,6 +62,10 @@
     background: $blue-50;
     text-decoration: none;
     color: $slate-900;
+
+    .grid {
+        padding: 0;
+    }
 }
 
 .silo__postDetails {
@@ -102,4 +106,29 @@
     padding: 4px 8px;
     border: 1px solid $blue-200;
     font-size: 12px;
+}
+
+@media screen and (max-width: 980px) {
+    .silo {
+        height: auto;
+    }
+
+    .silo .silo__hero {
+        grid-column: span 12;
+        height: 320px;
+
+        .silo__image {
+            height: 100%;
+        }
+    }
+
+    .silo__content {
+        grid-column: span 12;
+    }
+} 
+
+@media screen and (max-width: 600px) {
+    .silo__content {
+        padding: 0;
+    }
 }

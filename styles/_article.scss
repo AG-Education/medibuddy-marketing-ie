@@ -160,3 +160,21 @@ table .table__professionalHeader td {
 table .table__professional td {
     background: $orange-100
 }
+
+@media screen and (max-width: 600px) {
+    .article__info, .article__content {
+        grid-column: span 12;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .article__info h1 {
+        font-size: 56px;
+        line-height: 60px; 
+        letter-spacing: -1.1px;
+    }
+
+    .article__meta {
+        flex-direction: column;
+    }
+}
