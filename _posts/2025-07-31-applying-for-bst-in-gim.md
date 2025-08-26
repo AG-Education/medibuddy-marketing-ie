@@ -10,7 +10,7 @@ date_formatted: 31st July 2025
 image: applying-for-bst-in-gim.jpg
 author: marcosmit
 permalink: /general-internal-medicine/applying-for-bst-in-gim/
-og: /assets/img/applying-for-bst-in-gim.jpg
+og: /assets/img/blogs/applying-for-bst-in-gim.jpg
 ---
 Whether you trained in Ireland or abroad, the Basic Specialist Training (BST) programme in General Internal Medicine (GIM) offers a critical next step for doctors who want to sharpen their clinical skills, explore a wide range of subspecialties, and progress toward Higher Specialist Training (HST). It’s a structured, hands-on experience that equips you to thrive in a wide range of hospital settings—both regional and tertiary—while offering opportunities for research, mentorship, and professional development.
 

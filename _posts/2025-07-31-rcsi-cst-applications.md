@@ -10,7 +10,7 @@ date_formatted: 31st July 2025
 image: rcsi-cst-applications.jpg
 author: medibuddy
 permalink: /core-surgical-training/rcsi-cst-applications/
-og: /assets/img/rcsi-cst-applications.jpg
+og: /assets/img/blogs/rcsi-cst-applications.jpg
 ---
 For those seeking to pursue a career in surgery in Ireland, Core Surgical Training (CST) is a recommended first step. Streamlining of the pathway to Ireland’s specialist programme of Higher Surgical Training (HST) for imminent CST graduates who have completed their MRCS examinations has incentivised pursuit of this first step in Ireland.
 
