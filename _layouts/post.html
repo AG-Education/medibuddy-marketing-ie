@@ -25,6 +25,16 @@
       <div class="grid">
         <div class="article__content column-8">
           {{ content }}
+
+          {% if author.bio %}
+            <div class="article__bio">
+              <img class="article__bioAuthorAvatar" src="/assets/img/{{ author.avatar }}" alt="">
+              <div class="article__bioContent">
+                <div><strong>{{ author.name }}</strong></div>
+                <div>{{ author.bio }}</div>
+              </div>
+            </div>
+          {% endif %}
         </div>
       </div>
     </article>

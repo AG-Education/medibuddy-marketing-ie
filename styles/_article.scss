@@ -54,6 +54,27 @@
     border-radius: 12px;
 }
 
+.article__bio {
+    display: flex;
+    gap: 28px;
+    padding-top: 60px;
+    border-top: 1px solid $slate-200;
+    font-size: 16px;
+    line-height: 28px;
+    margin-top: 60px;
+}
+
+.article__bio .article__bioAuthorAvatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    flex-grow: 0;
+}
+
+.article__bioContent {
+    flex-grow: 1;
+}
+
 .article__content {
     grid-column-start: 3;
     grid-column-end: 11;
